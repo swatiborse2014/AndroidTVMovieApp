@@ -1,0 +1,9 @@
+<resources>
+
+    <style name="Theme.AndroidTVMovieApp" parent="@style/Theme.Leanback" />
+
+    <style name="SideInfoCardStyle" parent="Widget.Leanback.BaseCardViewStyle">
+        <item name="cardType">mainOnly</item>
+        <item name="cardBackground">@null</item>
+    </style>
+</resources>
